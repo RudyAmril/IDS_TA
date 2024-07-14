@@ -1,0 +1,6 @@
+{
+    "telegram_token": "7496463610:AAFnkmcyyqYQxtfyPbQ9CS6f392hAKuV4wk",
+    "telegram_chat_id": "5069649818",
+    "log_folder": "/var/log/attack_logs",
+    "interface": "ens33"
+}

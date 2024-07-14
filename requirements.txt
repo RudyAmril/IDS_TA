@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+scapy
+tabulate
+requests
+watchdog
+
+#pip install -r requirements.txt
